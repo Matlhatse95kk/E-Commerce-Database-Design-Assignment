@@ -15,6 +15,8 @@ This is part of the Powerlearn Project Group Asssignment. Our objective is to de
 
 - MMAKOAPA MMATLHATSE KEKANA (Matlhatse95kk@gmail.com)
 - ANDREW (barakaandrew901@gmail.com)
+-Kimanieric790@gmail.com
+-mahorobelyse1@gmail.com
 
 
 
