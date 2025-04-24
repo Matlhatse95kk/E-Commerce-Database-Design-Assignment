@@ -48,8 +48,8 @@ CREATE TABLE product_image (
     FOREIGN KEY (product_id) REFERENCES product(product_id)
 );
 INSERT INTO product_image (image_id, product_id, image_url) VALUES
-(1, 1, 'https://example.com/shoe.jpg'),
-(2, 2, 'https://example.com/iphone.jpg');
+(1, 1, 'https://images.pexels.com/photos/10963373/pexels-photo-10963373.jpeg?auto=compress&cs=tinysrgb&w=600'/shoe.jpg'),
+(2, 2, 'https://images.pexels.com/photos/30353223/pexels-photo-30353223/free-photo-of-sleek-apple-iphone-and-laptop-on-black-surface.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'/iphone.jpg');
 
 -- 6. Size Categories
 CREATE TABLE size_category (
