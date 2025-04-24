@@ -13,6 +13,9 @@ This is part of the Powerlearn Project Group Asssignment. Our objective is to de
 
  ## Team Members
 
+- MMAKOAPA MMATLHATSE KEKANA (Matlhatse95kk@gmail.com)
+- ANDREW (barakaandrew901@gmail.com)
 
 
- ## Project Structure
+
+
